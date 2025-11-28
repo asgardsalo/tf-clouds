@@ -1,0 +1,3 @@
+Hello from tf-clouds sample file.
+Created by Terraform.
+
